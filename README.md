@@ -2,8 +2,10 @@
 ---
 
 Este repositorio aloja algunos enunciados junto con sus resoluciones 
-de los cuestionarios de la materia 8608 - Control I.
+de finales y cuestionarios de la materia 8608 - Control I.
 Se utilizan las herramientas:
 
 - Octave
-- Jupiter Notebook
+- Jupyter Notebook
+
+Las resoluciones se pueden ver en la carpeta src/
